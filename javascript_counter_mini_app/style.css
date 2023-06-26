@@ -1,0 +1,13 @@
+div {
+    background-color: aliceblue;
+    width: 100vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+}
