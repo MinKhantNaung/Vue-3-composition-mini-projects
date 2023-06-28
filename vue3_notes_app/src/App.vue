@@ -45,7 +45,6 @@ const addNote = () => {
             </div>
           </div>
           <!-- Custom Modal -->
-
           <h1>Notes
             <button type="button" @click="showModal = true" class="btn btn-dark rounded-circle float-end">+</button>
           </h1>
