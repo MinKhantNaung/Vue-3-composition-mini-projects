@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Bmw",
+        "price": 5000,
+        "year": "2001",
+        "contact": {
+            "dealer": "Kyal",
+            "number": "111-111-111"
+        }
+    }, 
+    {
+      "id": 2,
+      "name": "Figma",
+      "price": 10000,
+      "year": "2005",
+      "contact": {
+        "dealer": "Star",
+        "number": "222-222-222"
+      }
+    },
+    {
+      "id": 3,
+      "name": "George",
+      "price": 20000,
+      "year": "2008",
+      "contact": {
+        "dealer": "Zuka",
+        "number": "222-333-333"
+      }
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "price": 30000,
+      "year": "2022",
+      "contact": {
+        "dealer": "Win",
+        "number": "444-444-444"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jovi",
+      "price": 40000,
+      "year": "2023",
+      "contact": {
+        "dealer": "Min",
+        "number": "555-555-555"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Now",
+      "price": 500000,
+      "year": "2023",
+      "contact": {
+        "dealer": "Min",
+        "number": "999-999-999"
+      }
+    }
+]
